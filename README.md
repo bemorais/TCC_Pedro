@@ -1,4 +1,4 @@
-# Analysis of Proteins Related to EMT and the USP5-RPS27A Pathway Using MRM Strategy by Mass Spectrometry
+# Analysis of Proteins Related to EMT and the USP5-RPS27A Pathway Using Mass Spectrometry Target Strategy
 A panel containing 14 proteins was optimized from injections of a mix that included all control and treatment conditions. The best peptides were selected using the PREGO tool, and those that did not show a good signal after the first run were discarded. In the second run of the mix, the retention time windows were narrowed to 4 minutes for most peptides. Peptides that still did not perform well after the second run were discarded, and the samples were then run individually in triplicate injections. An internal quantification standard was added to the samples for normalization, and the peptide selected for this was TIMP1.
 
 # Table Processing Before Analysis
